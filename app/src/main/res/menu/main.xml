@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_main_list"
+        android:title="List"
+        android:icon="@drawable/ic_android_black_24dp"/>
+
+    <item android:id="@+id/menu_main_detail"
+        android:title="Detail"
+        android:icon="@drawable/ic_baseline_10k_24"/>
+
+    <item android:id="@+id/menu_main_settings"
+        android:title="Settigs"
+        android:icon="@drawable/ic_baseline_airplanemode_active_24"/>
+</menu>
